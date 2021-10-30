@@ -1,0 +1,16 @@
+D:\Documents\Sistemas\Programacion Concurrente\.NET\demoJose\bin\Debug\net5.0\demoJose.exe
+D:\Documents\Sistemas\Programacion Concurrente\.NET\demoJose\bin\Debug\net5.0\demoJose.deps.json
+D:\Documents\Sistemas\Programacion Concurrente\.NET\demoJose\bin\Debug\net5.0\demoJose.runtimeconfig.json
+D:\Documents\Sistemas\Programacion Concurrente\.NET\demoJose\bin\Debug\net5.0\demoJose.runtimeconfig.dev.json
+D:\Documents\Sistemas\Programacion Concurrente\.NET\demoJose\bin\Debug\net5.0\demoJose.dll
+D:\Documents\Sistemas\Programacion Concurrente\.NET\demoJose\bin\Debug\net5.0\ref\demoJose.dll
+D:\Documents\Sistemas\Programacion Concurrente\.NET\demoJose\bin\Debug\net5.0\demoJose.pdb
+D:\Documents\Sistemas\Programacion Concurrente\.NET\demoJose\obj\Debug\net5.0\demoJose.csproj.AssemblyReference.cache
+D:\Documents\Sistemas\Programacion Concurrente\.NET\demoJose\obj\Debug\net5.0\demoJose.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Sistemas\Programacion Concurrente\.NET\demoJose\obj\Debug\net5.0\demoJose.AssemblyInfoInputs.cache
+D:\Documents\Sistemas\Programacion Concurrente\.NET\demoJose\obj\Debug\net5.0\demoJose.AssemblyInfo.cs
+D:\Documents\Sistemas\Programacion Concurrente\.NET\demoJose\obj\Debug\net5.0\demoJose.csproj.CoreCompileInputs.cache
+D:\Documents\Sistemas\Programacion Concurrente\.NET\demoJose\obj\Debug\net5.0\demoJose.dll
+D:\Documents\Sistemas\Programacion Concurrente\.NET\demoJose\obj\Debug\net5.0\ref\demoJose.dll
+D:\Documents\Sistemas\Programacion Concurrente\.NET\demoJose\obj\Debug\net5.0\demoJose.pdb
+D:\Documents\Sistemas\Programacion Concurrente\.NET\demoJose\obj\Debug\net5.0\demoJose.genruntimeconfig.cache
